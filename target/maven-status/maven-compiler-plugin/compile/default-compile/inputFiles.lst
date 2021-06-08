@@ -1,0 +1,13 @@
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\RubricaApp.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\dto\User.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\model\entities\EmailType.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\controller\ContactServlet.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\model\ContactDao.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\controller\IndexServlet.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\model\entities\Contact.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\controller\SecureResourceServlet.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\controller\LoginServlet.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\model\util\DBUtil.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\model\entities\Phone.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\model\entities\Email.java
+D:\DEV\RubricaWeb\src\main\java\it\rdev\rubrica\filter\AuthFilter.java

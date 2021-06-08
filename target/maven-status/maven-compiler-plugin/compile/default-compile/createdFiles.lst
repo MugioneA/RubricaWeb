@@ -1,0 +1,13 @@
+it\rdev\rubrica\model\ContactDao.class
+it\rdev\rubrica\controller\LoginServlet.class
+it\rdev\rubrica\model\entities\EmailType.class
+it\rdev\rubrica\dto\User.class
+it\rdev\rubrica\controller\ContactServlet.class
+it\rdev\rubrica\controller\SecureResourceServlet.class
+it\rdev\rubrica\model\entities\Contact.class
+it\rdev\rubrica\model\entities\Email.class
+it\rdev\rubrica\controller\IndexServlet.class
+it\rdev\rubrica\filter\AuthFilter.class
+it\rdev\rubrica\model\entities\Phone.class
+it\rdev\rubrica\model\util\DBUtil.class
+it\rdev\rubrica\RubricaApp.class
